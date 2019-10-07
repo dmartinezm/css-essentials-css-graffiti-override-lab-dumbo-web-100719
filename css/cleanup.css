@@ -7,6 +7,6 @@
   display: none;
 }
 
-.parent +.slick{
+.parent >.slick{
   display: none;
 }
